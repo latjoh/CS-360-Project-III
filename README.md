@@ -1,7 +1,7 @@
 # CS-360-Project-III
 
 # Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
-The goal was to create a weight tracking app with a three table SQLite database containing user login, daily weights and target goal weight. This app was designed to assist auser with weight loss.
+The goal was to create a weight tracking app with a three table SQLite database containing user login, daily weights and target goal weight. This app was designed to assist a user with weight loss.
 The user would enter a weight goal and record their daily weight progress until achieving their goal.
 # What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
 Home screen,login screen and a grid style page for the user to enter a target goal and daily weight entries. I tried to use the Model,View, and Controller (MVC) architecture to accomplish this goal.
